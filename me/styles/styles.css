@@ -1,0 +1,41 @@
+html{
+background-color: #FDFEFE;
+}
+body {
+width: 1000px;
+margin: auto;
+background-color: #FDFEFE;
+padding: 20px 20px 20px 20px;
+border: 2px solid black;
+}
+h1{
+   font-size: 60px;
+   text-align: center;
+ }
+p,li{
+font-size: 20px;
+line-height: 2;
+letter-spacing :1px;
+}
+#myHeader {
+    background-color: lightblue;
+    color: black;
+    padding: 40px;
+    text-align: center;
+}
+.my {
+    background-color: tomato;
+    color: white;
+    padding: 10px;
+} 
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+
+
+
